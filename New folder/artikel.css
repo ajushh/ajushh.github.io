@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+
+
+}
+
+h1{
+    text-align: center;
+    text-emphasis: 34;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    text-align: center;
+    opacity: 0.5;
+    font-size: 0.5em;
+}
+
+img{
+    align-content: center;
+}
+
+body .a{
+    text-align: center;
+    top: 1cm;
+}
+
+body .id{
+    size: 0.5em;
+    font-size: 0.5em;
+}
+
+
